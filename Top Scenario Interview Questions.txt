@@ -1,0 +1,28 @@
+🔥 Top Scenario Interview Questions on AWS Devops 🔥
+
+
+1. Your application is facing high traffic, and you have autoscaling enabled in AWS. However, the instances are not scaling up as expected. How would you troubleshoot this issue?
+
+2. You need to implement a complete CI/CD pipeline for an application hosted on AWS using AWS services. What tools and services would you choose and why?
+
+3. You need to securely manage sensitive data (e.g., API keys, database credentials) in your AWS environment. Which services or strategies would you use to manage secrets?
+
+4. You are tasked with implementing a blue/green deployment strategy for a critical application hosted on AWS. How would you approach this?
+
+5. Your company is running a large number of EC2 instances, and they want to reduce costs without impacting performance. What strategies would you recommend?
+
+6. You are tasked with designing a disaster recovery (DR) strategy for an application hosted in AWS. How would you ensure data recovery and business continuity in case of a disaster?
+
+7. Your latest deployment to AWS failed, and the service is not responding as expected. What steps would you take to identify and fix the issue?
+
+8. You are tasked with setting up and managing AWS infrastructure using Infrastructure as Code (IaC). What tools would you use, and how would you ensure efficient infrastructure management?
+
+9. You are responsible for monitoring a distributed application on AWS. How would you design an efficient monitoring and logging solution?
+
+10. How would you achieve zero-downtime deployment for an application hosted in AWS?
+
+11. Your RDS database is under heavy load and starting to degrade in performance. What are your options to scale the database to handle the increased load?
+
+12. You need to improve the security of an AWS environment that has several exposed resources. What steps would you take to secure it?
+
+13. Your company has multiple AWS accounts, and you are tasked with centralizing management and monitoring. How would you approach this?
